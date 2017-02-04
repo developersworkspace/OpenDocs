@@ -13,7 +13,7 @@
 
 Connect to your linux machine using a SSH Client such as Putty.
 
-!["Putty SSH Client"](/screenshots/putty.png?raw=true)
+!["Putty SSH Client"](https://github.com/developersworkspace/OpenDocs/blob/master/Getting-Started-With-Docker/screenshots/putty.PNG?raw=true)
 
 First we need to update all packages.
 
