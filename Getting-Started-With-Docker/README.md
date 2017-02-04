@@ -9,7 +9,7 @@
 
 ## Installing Docker
 
-### Linux:
+### Linux
 
 Connect to your linux machine using a SSH Client such as Putty.
 
