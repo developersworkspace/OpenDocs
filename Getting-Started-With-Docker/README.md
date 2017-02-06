@@ -42,6 +42,20 @@ To check if you have successfully install docker you can run this command
 
 ### Windows
 
+Go to the [docker site](https://docs.docker.com/docker-for-windows) to download the installer.
+
+Once you have downloaded the installer, run the .msi file.
+
+Follow the installation guide.
+
+After installation you'll have to restart your machine.
+
+To test your docker installation, open command prompt and run the following command:
+
+`docker -v`
+
+You should get an output of `Docker version 1.13.0, build 49bf474` or something similar.
+
 
 
 
