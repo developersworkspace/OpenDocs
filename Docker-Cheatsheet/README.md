@@ -1,5 +1,10 @@
 # Docker Cheatsheet
 
+
+## List all running containers
+
+`docker ps`
+
 ## Stop all containers
 
 `docker stop $(docker ps -a -q)`
