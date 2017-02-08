@@ -7,6 +7,8 @@
 ## Docker
 
 * [Getting Started with Docker](https://github.com/developersworkspace/OpenDocs/tree/master/Getting-Started-With-Docker)
+* [Running Redis in Docker](https://github.com/developersworkspace/Docker-Samples/tree/master/redis)
+* [Running Redis Cluster in Docker](https://github.com/developersworkspace/Docker-Samples/tree/master/redis-cluster)
 * [Docker Cheatsheet](https://github.com/developersworkspace/OpenDocs/tree/master/Docker-Cheatsheet)
 
 The MIT License (MIT)
