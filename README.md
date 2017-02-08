@@ -2,7 +2,7 @@
 
 ## Linux
 
-[The Basics of Linux](https://github.com/developersworkspace/OpenDocs/tree/master/The-Basics-Of-Linux)
+* [The Basics of Linux](https://github.com/developersworkspace/OpenDocs/tree/master/The-Basics-Of-Linux)
 
 ## GIT
 
