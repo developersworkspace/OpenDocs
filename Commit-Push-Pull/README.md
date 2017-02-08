@@ -2,6 +2,10 @@
 
 !["Git Explained"](https://github.com/developersworkspace/OpenDocs/blob/master/Commit-Push-Pull/images/git_explained_export.png?raw=true)
 
+## Related
+
+* [Back to OpenDocs](https://github.com/developersworkspace/OpenDocs)
+
 The MIT License (MIT)
 =====================
 
