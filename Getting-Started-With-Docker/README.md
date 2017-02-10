@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
-* Window or Linux virtual machine/physical machine
+* Windows or Linux virtual machine/physical machine
 * Remote Desktop Connection Manager (for Windows) or SSH CLient (for linux)
 
 ## Installing Docker
@@ -15,7 +15,7 @@ Connect to your linux machine using a SSH Client such as Putty.
 
 !["Putty SSH Client"](https://github.com/developersworkspace/OpenDocs/blob/master/Getting-Started-With-Docker/screenshots/putty.PNG?raw=true)
 
-First we need to update all packages.
+We need to start by updating the local server's apt package indexes
 
 `sudo apt-get update`
 
