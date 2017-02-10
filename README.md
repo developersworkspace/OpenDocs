@@ -6,7 +6,7 @@
 
 ## SSL
 
- [Let's Encrypt Tutorial](https://github.com/developersworkspace/OpenDocs/tree/master/Lets-Encrypt-Tutorial)
+ * [Let's Encrypt Tutorial](https://github.com/developersworkspace/OpenDocs/tree/master/Lets-Encrypt-Tutorial)
 
 ## GIT
 
@@ -15,6 +15,7 @@
 ## Docker
 
 * [Getting Started with Docker](https://github.com/developersworkspace/OpenDocs/tree/master/Getting-Started-With-Docker)
+* [Running Your First Docker Container](#) (Coming Soon)
 * [Running Redis in a Docker Container](https://github.com/developersworkspace/Docker-Samples/tree/master/redis)
 * [Running Redis Cluster in a Docker Container](https://github.com/developersworkspace/Docker-Samples/tree/master/redis-cluster)
 * [Docker Cheatsheet](https://github.com/developersworkspace/OpenDocs/tree/master/Docker-Cheatsheet)
