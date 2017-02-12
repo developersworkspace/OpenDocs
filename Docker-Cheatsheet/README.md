@@ -9,13 +9,25 @@
 
 `docker stop $(docker ps -a -q)`
 
+For Windows:
+
+`FOR /f "tokens=*" %i IN ('docker ps -a -q') DO docker stop %i`
+
 ## Remove all containers
 
 `docker rm $(docker ps -a -q)`
 
+For Windows:
+
+`FOR /f "tokens=*" %i IN ('docker ps -a -q') DO docker rm %i`
+
 ## Remove all images
 
 `docker rmi $(docker images -q)`
+
+For Windows:
+
+`FOR /f "tokens=*" %i IN ('docker images -a -q') DO docker rmi %i`
 
 ## Related
 
