@@ -25,7 +25,7 @@ Next you'll need to add the GPG (GNU Privacy Guard) key for the Docker repositor
 
 We are now authorized to access the Docker repository and it's sources. We can add these source to our APT sources.
 
-`sudo apt-add-repository 'deb https://apt.dockerproject.org/repo ubuntu-xenial main`
+`sudo apt-add-repository 'deb https://apt.dockerproject.org/repo ubuntu-xenial main'`
 
 To make sure that we use the docker-engine package that we just added, we need to update all packages and clear the original docker-engine package from the APT sources
 
