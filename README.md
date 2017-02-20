@@ -18,7 +18,12 @@
 * [Running Your First Docker Container](#) (Coming Soon)
 * [Running Redis in a Docker Container](https://github.com/developersworkspace/Docker-Samples/tree/master/redis)
 * [Running Redis Cluster in a Docker Container](https://github.com/developersworkspace/Docker-Samples/tree/master/redis-cluster)
+* [Running Jenkins in a Docker Container](https://github.com/developersworkspace/Docker-Samples/tree/master/jenkins)
 * [Docker Cheatsheet](https://github.com/developersworkspace/OpenDocs/tree/master/Docker-Cheatsheet)
+
+## Production Apps
+
+* [Installing a Redis Cluster](https://github.com/developersworkspace/Production-Apps/tree/master/Redis-Cluster)
 
 ## Useful Links
 
