@@ -12,6 +12,11 @@ SSH client is a program that allows establishing a secure and authenticated SSH 
 
 You can download Putty [here](http://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html).
 
+**NOTE**
+
+Ctrl + V won't work. To paste in Putty, right click in the console window. 
+
+
 !["Putty SSH Client"](https://github.com/developersworkspace/OpenDocs/blob/master/The-Basics-Of-Linux/screenshots/putty.PNG?raw=true)
 
 ### FTP Client
