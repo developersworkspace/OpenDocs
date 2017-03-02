@@ -1,6 +1,6 @@
 # How does DNS work?
 
-!["DNS Diagram"](https://github.com/developersworkspace/OpenDocs/blob/master/How-Does-DNS-Work/images/How-Does-DNS-Work.svg?raw=true)
+!["DNS Diagram"](https://github.com/developersworkspace/OpenDocs/blob/master/How-Does-DNS-Work/images/How-Does-DNS-Work.png?raw=true)
 
 ## Related
 
