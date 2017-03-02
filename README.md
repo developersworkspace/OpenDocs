@@ -21,6 +21,10 @@
 * [Running Jenkins in a Docker Container](https://github.com/developersworkspace/Docker-Samples/tree/master/jenkins)
 * [Docker Cheatsheet](https://github.com/developersworkspace/OpenDocs/tree/master/Docker-Cheatsheet)
 
+## The Internet
+
+* [How does DNS work?](https://github.com/developersworkspace/OpenDocs/tree/master/How-Does-DNS-Work)
+
 ## Production Apps
 
 * [Installing a Redis Cluster](https://github.com/developersworkspace/Production-Apps/tree/master/Redis-Cluster)
