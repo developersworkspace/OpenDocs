@@ -56,10 +56,6 @@ To test your docker installation, open command prompt and run the following comm
 
 You should get an output of `Docker version 1.13.0, build 49bf474` or something similar.
 
-## Related
-
-* [Back to OpenDocs](https://github.com/developersworkspace/OpenDocs)
-
 The MIT License (MIT)
 =====================
 

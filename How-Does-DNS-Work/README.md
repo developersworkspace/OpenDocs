@@ -2,10 +2,6 @@
 
 !["DNS Diagram"](https://github.com/developersworkspace/OpenDocs/blob/master/How-Does-DNS-Work/images/How-Does-DNS-Work.png?raw=true)
 
-## Related
-
-* [Back to OpenDocs](https://github.com/developersworkspace/OpenDocs)
-
 The MIT License (MIT)
 =====================
 

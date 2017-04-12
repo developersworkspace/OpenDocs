@@ -64,10 +64,6 @@ Command:
 
 `chown -R <username>:<group> /var/www`
 
-## Related
-
-* [Back to OpenDocs](https://github.com/developersworkspace/OpenDocs)
-
 The MIT License (MIT)
 =====================
 

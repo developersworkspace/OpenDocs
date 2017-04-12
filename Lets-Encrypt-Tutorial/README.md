@@ -56,10 +56,6 @@ Files:
 * **fullchain.pem**: cert.pem and chain.pem combined
 * **privkey.pem**: Your certificate's private key
 
-## Related
-
-* [Back to OpenDocs](https://github.com/developersworkspace/OpenDocs)
-
 The MIT License (MIT)
 =====================
 

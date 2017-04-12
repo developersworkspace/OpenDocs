@@ -29,10 +29,6 @@ For Windows:
 
 `FOR /f "tokens=*" %i IN ('docker images -a -q') DO docker rmi %i`
 
-## Related
-
-* [Back to OpenDocs](https://github.com/developersworkspace/OpenDocs)
-
 The MIT License (MIT)
 =====================
 
